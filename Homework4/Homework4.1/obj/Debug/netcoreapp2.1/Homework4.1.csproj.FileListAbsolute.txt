@@ -1,0 +1,4 @@
+C:\Users\Alex Fredy\source\repos\C-Homework\Homework4\Homework4.1\obj\Debug\netcoreapp2.1\Homework4.1.csprojAssemblyReference.cache
+C:\Users\Alex Fredy\source\repos\C-Homework\Homework4\Homework4.1\obj\Debug\netcoreapp2.1\Homework4.1.csproj.CoreCompileInputs.cache
+C:\Users\Alex Fredy\source\repos\C-Homework\Homework4\Homework4.1\obj\Debug\netcoreapp2.1\Homework4.1.AssemblyInfoInputs.cache
+C:\Users\Alex Fredy\source\repos\C-Homework\Homework4\Homework4.1\obj\Debug\netcoreapp2.1\Homework4.1.AssemblyInfo.cs
